@@ -1,2 +1,4 @@
 # MyPortfolio
-I have done a portfolio about me by using HTML &amp; CSS in VS code. 
+I have done a portfolio about me by using HTML & CSS in VS code. 
+
+Lets build ourself
